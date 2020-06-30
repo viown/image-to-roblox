@@ -14,3 +14,5 @@ How to use:
 6. After it's done, your script will be in the scripts folder
 
 To test this out, open roblox studio, create a localscript and place it in ReplicatedFirst or StarterGui, paste the code in the script then click play!
+
+Contact me on discord: vi#1000
