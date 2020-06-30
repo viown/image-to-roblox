@@ -6,7 +6,7 @@ while True:
     file = ''
     while True:
         file = input("Name of the file you want to convert (has to be in the images folder): ")
-        if not (file.endswith(".png") or file.endswith(".jpg") or file.endswith(".jpeg")):
+        if not (file.endswith(".png") or file.endswith(".jpg") or file.endswith(".jpeg") or file.endswith(".bmp")):
             print("Invalid file format, make sure to add .png, .jpg, or whatever file format your image is!")
         else:
             break
