@@ -15,4 +15,13 @@ How to use:
 
 To test this out, open roblox studio, create a localscript and place it in ReplicatedFirst or StarterGui, paste the code in the script then click play!
 
+Features:
+- Automatically sizes properly
+- High quality images
+
+Coming soon:
+- Option to choose the quality of the image (the lower, the faster it'll load)
+- Ability to set the position of where the image will be. By default it's placed on top left
+- Possible support for .gif formats
+
 Contact me on discord: vi#1000
