@@ -25,3 +25,10 @@ Coming soon:
 - Possible support for .gif formats
 
 Contact me on discord: vi#1000
+
+# Disclaimer
+
+This is not meant to be used in production / actual games as this will severely slow down performance for users.  
+Programmatically moving/altering the image is computationally expensive and shouldn't be done.  
+Rendering the image takes a while so you may notice the game will take more time to load.  
+*Really* high quality images will not work.
